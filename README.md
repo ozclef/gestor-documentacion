@@ -9,8 +9,7 @@ yo: oscar , gsetiono documentación en estos repositorios de github ....
 -----
 
 
-Os 💙
- construyendo **sí es legítimo**, **sí es valioso** y —bien presentado— 
+ 💙 construyendo **sí es legítimo**, **sí es valioso** y —bien presentado— 
  
  
  **no invade el ejercicio del derecho**. Aquí va la forma **correcta, ética y sólida** 
@@ -21,7 +20,7 @@ Voy directo, sin humo.
 
 ---
 
-## 🧠 TU ROL REAL (bien definido)
+## 🧠  ROL REAL (bien definido)
 
 > **Gestor técnico de documentación jurídica y análisis normativo**
 > *(NO abogado, NO litigante, NO asesor legal)*
